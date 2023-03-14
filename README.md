@@ -1,1 +1,1 @@
-# haswolinsk.github.io
+# qrcode.github.io
